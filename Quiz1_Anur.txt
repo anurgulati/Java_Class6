@@ -1,0 +1,11 @@
+QUIZ
+
+Ans1. True, .class file will be created comprising the bytecode.
+
+Ans2. access modifier private is not allowed here. 
+
+Ans3. Yes, it can easily implement more than one interface.
+
+Ans4. Method is not declared public here.
+
+Ans5. 
